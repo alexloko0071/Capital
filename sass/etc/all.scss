@@ -1,0 +1,67 @@
+/*
+ * This is is imported by virtue of "sass.etc" in "app.json".
+ */
+
+body > .x-mask {
+  background-color: rgba(0, 0, 0, .5) !important;
+}
+
+@font-face {
+  font-family: 'RobotoRegular';
+  src: url('fonts/RobotoBold/RobotoBold.eot');
+  src: url('fonts/RobotoBold/RobotoBold.woff') format('woff'),
+  url('fonts/RobotoBold/RobotoBold.ttf') format('truetype');
+  font-weight: bold;
+  font-size: 16px;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'RobotoRegular';
+  src: url('fonts/RobotoCondensedBold/RobotoCondensedBold.eot');
+  src: url('fonts/RobotoCondensedBold/RobotoCondensedBold.woff') format('woff'),
+  url('fonts/RobotoCondensedBold/RobotoCondensedBold.ttf') format('truetype');
+  font-weight: normal;
+  font-size: 16px;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'RobotoCondensedLight';
+  src: url('fonts/RobotoCondensedLight/RobotoCondensedLight.eot');
+  src: url('fonts/RobotoCondensedLight/RobotoCondensedLight.woff') format('woff'),
+  url('fonts/RobotoCondensedLight/RobotoCondensedLight.ttf') format('truetype');
+  font-weight: normal;
+  font-size: 16px;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'RobotoCondensedRegular';
+  src: url('fonts/RobotoCondensedRegular/RobotoCondensedRegular.eot');
+  src: url('fonts/RobotoCondensedRegular/RobotoCondensedRegular.woff') format('woff'),
+  url('fonts/RobotoCondensedRegular/RobotoCondensedRegular.ttf') format('truetype');
+  font-weight: normal;
+  font-size: 16px;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'RobotoLight';
+  src: url('fonts/RobotoLight/RobotoLight.eot');
+  src: url('fonts/RobotoLight/RobotoLight.woff') format('woff'),
+  url('fonts/RobotoLight/RobotoLight.ttf') format('truetype');
+  font-weight: normal;
+  font-size: 16px;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'RobotoRegular';
+  src: url('fonts/RobotoRegular/RobotoRegular.eot');
+  src: url('fonts/RobotoRegular/RobotoRegular.woff') format('woff'),
+  url('fonts/RobotoRegular/RobotoRegular.ttf') format('truetype');
+  font-weight: normal;
+  font-size: 17px;
+  font-style: normal;
+}
